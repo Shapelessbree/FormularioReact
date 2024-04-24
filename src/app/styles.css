@@ -1,0 +1,34 @@
+/* styles.css */
+
+.form-container {
+    background-color: #ffcccc; /* Cambia el fondo a un tono claro de rojo */
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .form {
+    width: 100%;
+  }
+  
+  .input-field {
+    padding: 10px;
+    border: 1px solid #ff3333; /* Cambia el borde a un tono más oscuro de rojo */
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  .submit-button {
+    background-color: #ff3333; /* Cambia el color de fondo del botón a rojo */
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .submit-button:hover {
+    background-color: #cc0000; /* Cambia el color de fondo del botón al pasar el ratón a un tono más oscuro de rojo */
+  }
+  
